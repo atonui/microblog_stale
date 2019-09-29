@@ -12,4 +12,5 @@ class Config(object):
     MAIL_USE_TLS = os.environ.get('MAIL_USE_TLS') is not None
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
     ADMINS = ['pythonapps17@gmail.com']
+    POSTS_PER_PAGE = 3
     
