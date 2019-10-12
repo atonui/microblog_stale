@@ -26,7 +26,7 @@ python-dotenv==0.10.3
 python-xapp==1.6.0
 python-xlib==0.20
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.1
 requests==2.18.4
 setproctitle==1.1.10
 six==1.11.0
