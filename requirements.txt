@@ -25,7 +25,7 @@ python-apt==1.6.4
 python-dotenv==0.10.3
 python-xapp==1.6.0
 python-xlib==0.20
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==3.12
 requests==2.18.4
 setproctitle==1.1.10
